@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Indah Qurota Akyuni  
 🎓 Fresh Graduate in **Statistics** from Universitas Islam Indonesia  
 📊 Passionate about **Data Analysis, Data Science, Visualization, and Machine Learning**  
@@ -40,8 +38,8 @@ Here are some of my featured projects:
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Indahhola=USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Indahhola=USERNAME&layout=compact&theme=radical)  
 
 ---
 
