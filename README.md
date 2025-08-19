@@ -7,17 +7,17 @@
 
 ## 🔎 What I Do  
 - 📈 Data Analysis with Python, SQL, Excel  
-- 📊 Visualization with Power BI, Tableau, Google Data Studio  
-- 🤖 Machine Learning & Text Mining (SVM, Sentiment Analysis)  
+- 📊 Visualization with Power BI, Tableau, Looker Studio  
+- 🤖 Machine Learning & Text Mining
 - 🗺️ Spatial Analysis with QGIS, GeoDa  
 
 ---
 
 ## 🚀 Projects  
 Here are some of my featured projects:  
-- 📸 **MUA Booking Dashboard** → Data visualization project for a freelance system  
+- 📸 **MUA Booking System** →  Sistem Database Sederhana dengan MySql
 - 🏛️ **Instagram Sentiment Analysis** → Instagram comments sentiment using SVM + Lexicon  
-- 🏥 **Big Data Health Challenge** → Large-scale classification project (Satria Data)  
+- 🏥 **House Price Prediction** → Large-scale classification 
 
 ---
 
