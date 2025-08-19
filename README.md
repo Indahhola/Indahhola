@@ -28,12 +28,17 @@ Here are some of my featured projects:
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack & Statistical Tools 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-313F91?logo=spss&logoColor=white)
+![Minitab](https://img.shields.io/badge/Minitab-21A0C4?logo=minitab&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
 
 ---
 
